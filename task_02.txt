@@ -1,0 +1,2 @@
+INSERT INTO MainTask_06(surnamesN, nameN, phone, rating, age )  VALUES(?,?,?,?,?)
+SELECT * FROM MainTask_06
